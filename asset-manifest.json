@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maks-task/static/css/main.46584167.css",
+    "main.js": "/maks-task/static/js/main.54b79573.js",
+    "static/js/787.8e517daf.chunk.js": "/maks-task/static/js/787.8e517daf.chunk.js",
+    "index.html": "/maks-task/index.html",
+    "main.46584167.css.map": "/maks-task/static/css/main.46584167.css.map",
+    "main.54b79573.js.map": "/maks-task/static/js/main.54b79573.js.map",
+    "787.8e517daf.chunk.js.map": "/maks-task/static/js/787.8e517daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46584167.css",
+    "static/js/main.54b79573.js"
+  ]
+}
